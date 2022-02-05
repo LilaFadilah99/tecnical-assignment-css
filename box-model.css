@@ -1,0 +1,14 @@
+div {
+    background-color: gainsboro;
+    color: #F3F4F6;
+    font-weight: 400;
+    font-family: sans-serif;
+    padding: 15px 10px;
+    text-transform: capitalize;
+   
+}
+ 
+
+p:hover {
+    background-color: #111827;
+}
